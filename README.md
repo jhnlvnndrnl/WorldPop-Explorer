@@ -5,7 +5,8 @@
 - Background: I came up with the idea for this project while taking the **Python Data Fundamentals Track** on **DataCamp** and working toward the **Python Data Associate Certification**. This project will continue to improve over time as I learn new skills and explore more advanced concepts.
 
 # Maintainer:
-[@ElvinEndrenal](https://github.com/ElvinEndrenal)
+- [@ElvinEndrenal](https://github.com/ElvinEndrenal)
+
 
 # Tools to Use: 
 
@@ -39,6 +40,6 @@ You have Reached the end! Thank you for taking the time to read this.
 > Developer
 
 ```
-For Reccomendations of Content please contact us through the following:
+For Reccomendations or Removal of Content please contact me through the following:
 jeendrenal.dev@gmail.com
 ```
